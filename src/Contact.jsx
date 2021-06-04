@@ -54,8 +54,10 @@ const Contact = () => {
                 ></textarea>
               </div>
               <div class="col-12">
-    <button class="btn btn-outline-primary" type="submit">Submit form</button>
-  </div>
+                <button class="btn btn-outline-primary" type="submit">
+                  Submit form
+                </button>
+              </div>
             </form>
           </div>
         </div>
